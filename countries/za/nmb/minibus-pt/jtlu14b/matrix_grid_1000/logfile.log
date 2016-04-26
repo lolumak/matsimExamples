@@ -1,0 +1,139 @@
+2016-04-18 12:03:58,218  INFO LogToOutputSaver:14 Logging will be stored at ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/matrix_03/
+2016-04-18 12:03:58,221  INFO CreateMatrixBasedPtInputs:91 networkFile = ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/jtlu14b.output_network.xml.gz
+2016-04-18 12:03:58,222  INFO CreateMatrixBasedPtInputs:92 transitScheduleFile = ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/ITERS/it.300/jtlu14b.300.transitScheduleScored.xml.gz
+2016-04-18 12:03:58,222  INFO CreateMatrixBasedPtInputs:93 outputFileRoot = ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/matrix_03/
+2016-04-18 12:03:58,222  INFO CreateMatrixBasedPtInputs:94 measuringPointsAsPTStops = true
+2016-04-18 12:03:58,234  INFO CreateMatrixBasedPtInputs:95 cellSize = 1000.0
+2016-04-18 12:03:58,235  INFO CreateMatrixBasedPtInputs:96 departureTime = 28800.0
+2016-04-18 12:03:58,235  INFO CreateMatrixBasedPtInputs:97 numberOfThreads = 1
+2016-04-18 12:03:58,236  INFO CreateMatrixBasedPtInputs:98 bounds = network
+2016-04-18 12:03:58,508  INFO ScenarioLoaderImpl:102 loading scenario from base directory: /Users/Dominik/Workspace/matsim/playgrounds/dziemke/
+2016-04-18 12:03:58,508  INFO ScenarioLoaderImpl:125 loading network from ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/jtlu14b.output_network.xml.gz
+2016-04-18 12:03:58,514  INFO MatsimXmlParser:145 starting to parse xml from file ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/jtlu14b.output_network.xml.gz ...
+2016-04-18 12:03:58,628  INFO MatsimNetworkReader:98 using network_v1-reader.
+2016-04-18 12:03:58,629  INFO MatsimXmlParser:253 Trying to load http://www.matsim.org/files/dtd/network_v1.dtd. In some cases (e.g. network interface up but no connection), this may take a bit.
+2016-04-18 12:03:59,129  INFO NetworkImpl:134  node # 1
+2016-04-18 12:03:59,132  INFO NetworkImpl:134  node # 2
+2016-04-18 12:03:59,132  INFO NetworkImpl:134  node # 4
+2016-04-18 12:03:59,133  INFO NetworkImpl:134  node # 8
+2016-04-18 12:03:59,135  INFO NetworkImpl:134  node # 16
+2016-04-18 12:03:59,139  INFO NetworkImpl:134  node # 32
+2016-04-18 12:03:59,144  INFO NetworkImpl:134  node # 64
+2016-04-18 12:03:59,155  INFO NetworkImpl:134  node # 128
+2016-04-18 12:03:59,168  INFO NetworkImpl:134  node # 256
+2016-04-18 12:03:59,190  INFO NetworkImpl:134  node # 512
+2016-04-18 12:03:59,210  INFO NetworkImpl:134  node # 1024
+2016-04-18 12:03:59,231  INFO NetworkImpl:134  node # 2048
+2016-04-18 12:03:59,275  INFO NetworkImpl:134  node # 4096
+2016-04-18 12:03:59,314  INFO NetworkImpl:134  node # 8192
+2016-04-18 12:03:59,376  INFO NetworkImpl:130  link # 1
+2016-04-18 12:03:59,380  INFO NetworkImpl:130  link # 2
+2016-04-18 12:03:59,381  INFO NetworkImpl:130  link # 4
+2016-04-18 12:03:59,384  INFO NetworkImpl:130  link # 8
+2016-04-18 12:03:59,386  INFO NetworkImpl:130  link # 16
+2016-04-18 12:03:59,389  INFO NetworkImpl:130  link # 32
+2016-04-18 12:03:59,395  INFO NetworkImpl:130  link # 64
+2016-04-18 12:03:59,404  INFO NetworkImpl:130  link # 128
+2016-04-18 12:03:59,413  INFO NetworkImpl:130  link # 256
+2016-04-18 12:03:59,425  INFO NetworkImpl:130  link # 512
+2016-04-18 12:03:59,470  INFO NetworkImpl:130  link # 1024
+2016-04-18 12:03:59,502  INFO NetworkImpl:130  link # 2048
+2016-04-18 12:03:59,557  INFO NetworkImpl:130  link # 4096
+2016-04-18 12:03:59,559  WARN LinkImpl:154 [length=0.0 of link id 190176 may cause problems]
+2016-04-18 12:03:59,559  WARN LinkImpl:156  Future occurences of this logging statement are suppressed.
+2016-04-18 12:03:59,559  WARN LinkImpl:109 [from=to=[id=25618639][coord=[x=132931.48316938683][y=-3688394.173246786]][type=null][nof_inlinks=2][nof_outlinks=1] link is a loop]
+2016-04-18 12:03:59,560  WARN LinkImpl:111  Future occurences of this logging statement are suppressed.
+2016-04-18 12:03:59,560  WARN NodeImpl:98 [id=25618639][coord=[x=132931.48316938683][y=-3688394.173246786]][type=null][nof_inlinks=2][nof_outlinks=2][inlink_id=190176 is now in- and out-link]
+2016-04-18 12:03:59,560  WARN NodeImpl:99  This message given only once.
+2016-04-18 12:03:59,659  INFO NetworkImpl:130  link # 8192
+2016-04-18 12:03:59,819  INFO NetworkImpl:130  link # 16384
+2016-04-18 12:04:00,058  INFO NetworkImpl:130  link # 32768
+2016-04-18 12:04:00,167  INFO ScenarioLoaderImpl:179 no facilities file set in config, therefore not loading any facilities.  This is not a problem except if you are using facilities
+2016-04-18 12:04:00,167  INFO ScenarioLoaderImpl:189 no facility-attributes file set in config, not loading any facility attributes
+2016-04-18 12:04:00,167  INFO ScenarioLoaderImpl:220 no population file set in config, not able to load population
+2016-04-18 12:04:00,167  INFO ScenarioLoaderImpl:230 no person-attributes file set in config, not loading any person attributes
+2016-04-18 12:04:00,167  INFO ScenarioLoaderImpl:242 no households file set in config, not loading households
+2016-04-18 12:04:00,168  INFO ScenarioLoaderImpl:252 no household-attributes file set in config, not loading any household attributes
+2016-04-18 12:04:00,168  INFO ScenarioLoaderImpl:278 no transit schedule file set in config, not loading any transit schedule
+2016-04-18 12:04:00,168  INFO ScenarioLoaderImpl:305 no transit vehicles file set in config, not loading any transit vehicles
+2016-04-18 12:04:00,184 DEBUG MatsimFileTypeGuesser:147 Detected public id: null
+2016-04-18 12:04:00,185 DEBUG MatsimFileTypeGuesser:148 Detected system Id: http://www.matsim.org/files/dtd/transitSchedule_v1.dtd
+2016-04-18 12:04:00,189  INFO MatsimXmlParser:145 starting to parse xml from file ../../../runs-svn/nmbm_minibuses/nmbm/output/jtlu14b/ITERS/it.300/jtlu14b.300.transitScheduleScored.xml.gz ...
+2016-04-18 12:04:00,192  INFO MatsimXmlParser:253 Trying to load http://www.matsim.org/files/dtd/transitSchedule_v1.dtd. In some cases (e.g. network interface up but no connection), this may take a bit.
+2016-04-18 12:04:00,894  INFO GridUtils:119 Setting statring points for accessibility measure ...
+2016-04-18 12:04:00,896  INFO ActivityFacilitiesImpl:89     facility # 1
+2016-04-18 12:04:00,897  INFO ActivityFacilitiesImpl:89     facility # 2
+2016-04-18 12:04:00,897  INFO ActivityFacilitiesImpl:89     facility # 4
+2016-04-18 12:04:00,897  INFO ActivityFacilitiesImpl:89     facility # 8
+2016-04-18 12:04:00,897  INFO ActivityFacilitiesImpl:89     facility # 16
+2016-04-18 12:04:00,897  INFO ActivityFacilitiesImpl:89     facility # 32
+2016-04-18 12:04:00,898  INFO ActivityFacilitiesImpl:89     facility # 64
+2016-04-18 12:04:00,898  INFO ActivityFacilitiesImpl:89     facility # 128
+2016-04-18 12:04:00,899  INFO ActivityFacilitiesImpl:89     facility # 256
+2016-04-18 12:04:00,900  INFO ActivityFacilitiesImpl:89     facility # 512
+2016-04-18 12:04:00,901  INFO ActivityFacilitiesImpl:89     facility # 1024
+2016-04-18 12:04:00,902  INFO ActivityFacilitiesImpl:89     facility # 2048
+2016-04-18 12:04:00,903  INFO GridUtils:147 Having 2820 inside the shape file boundary (and 47 outside).
+2016-04-18 12:04:00,903  INFO GridUtils:148 Done with setting starting points!
+2016-04-18 12:04:00,910  INFO CSVFileWriter:24 Initializing the writer.
+2016-04-18 12:04:00,911  INFO CSVFileWriter:39 ... done!
+2016-04-18 12:04:00,931  INFO CSVFileWriter:98 Closing ...
+2016-04-18 12:04:00,933  INFO CSVFileWriter:102 ... done!
+2016-04-18 12:04:00,933  INFO MatrixBasedPtInputUtils:78 Stops file based on schedule written.
+2016-04-18 12:04:00,934  INFO CreateMatrixBasedPtInputs:158 numberOfMeasuringPoints = 2820
+2016-04-18 12:04:00,946  INFO TransitRouterNetwork:361 start creating transit network
+2016-04-18 12:04:00,947  INFO Counter:51  node #1
+2016-04-18 12:04:00,948  INFO Counter:51  node #2
+2016-04-18 12:04:00,949  INFO Counter:51  link #1
+2016-04-18 12:04:00,949  INFO Counter:51  link #2
+2016-04-18 12:04:00,949  INFO Counter:51  node #4
+2016-04-18 12:04:00,949  INFO Counter:51  link #4
+2016-04-18 12:04:00,949  INFO Counter:51  node #8
+2016-04-18 12:04:00,950  INFO Counter:51  link #8
+2016-04-18 12:04:00,950  INFO Counter:51  node #16
+2016-04-18 12:04:00,950  INFO Counter:51  link #16
+2016-04-18 12:04:00,950  INFO Counter:51  node #32
+2016-04-18 12:04:00,950  INFO Counter:51  link #32
+2016-04-18 12:04:00,950  INFO Counter:51  node #64
+2016-04-18 12:04:00,951  INFO Counter:51  link #64
+2016-04-18 12:04:00,951  INFO Counter:51  node #128
+2016-04-18 12:04:00,951  INFO Counter:51  link #128
+2016-04-18 12:04:00,952  INFO Counter:51  node #256
+2016-04-18 12:04:00,952  INFO Counter:51  link #256
+2016-04-18 12:04:00,953  INFO Counter:51  node #512
+2016-04-18 12:04:00,953  INFO Counter:51  link #512
+2016-04-18 12:04:00,955  INFO Counter:51  node #1024
+2016-04-18 12:04:00,955  INFO Counter:51  link #1024
+2016-04-18 12:04:00,957  INFO Counter:51  node #2048
+2016-04-18 12:04:00,957  INFO Counter:51  link #2048
+2016-04-18 12:04:00,962  INFO Counter:51  node #4096
+2016-04-18 12:04:00,962  INFO Counter:51  link #4096
+2016-04-18 12:04:00,970  INFO Counter:51  node #8192
+2016-04-18 12:04:00,970  INFO Counter:51  link #8192
+2016-04-18 12:04:01,024  INFO TransitRouterNetwork:387 add transfer links
+2016-04-18 12:04:01,234  INFO TransitRouterNetwork:403 763106 transfer links to be added.
+2016-04-18 12:04:01,237  INFO Counter:51  link #16384
+2016-04-18 12:04:01,465  INFO Counter:51  link #32768
+2016-04-18 12:04:01,571  INFO Counter:51  link #65536
+2016-04-18 12:04:01,778  INFO Counter:51  link #131072
+2016-04-18 12:04:02,190  INFO Counter:51  link #262144
+2016-04-18 12:04:03,059  INFO Counter:51  link #524288
+2016-04-18 12:04:05,373  INFO TransitRouterNetwork:409 transit router network statistics:
+2016-04-18 12:04:05,373  INFO TransitRouterNetwork:410  # nodes: 16023
+2016-04-18 12:04:05,373  INFO TransitRouterNetwork:411  # links total:     779050
+2016-04-18 12:04:05,373  INFO TransitRouterNetwork:412  # transfer links:  763106
+2016-04-18 12:04:05,377  INFO CSVFileWriter:24 Initializing the writer.
+2016-04-18 12:04:05,377  INFO CSVFileWriter:39 ... done!
+2016-04-18 12:04:05,377  INFO CSVFileWriter:24 Initializing the writer.
+2016-04-18 12:04:05,377  INFO CSVFileWriter:39 ... done!
+2016-04-18 12:04:05,377  INFO ThreadedMatrixCreator:256 Start generating transitRouteNetworkLinksMap -- thread = 0
+2016-04-18 12:04:05,379  INFO ThreadedMatrixCreator:268 Finish generating transitRouteNetworkLinksMap -- thread = 0
+2016-04-18 12:13:31,701  INFO CSVFileWriter:98 Closing ...
+2016-04-18 12:13:31,707  INFO CSVFileWriter:102 ... done!
+2016-04-18 12:13:31,707  INFO CSVFileWriter:98 Closing ...
+2016-04-18 12:13:31,713  INFO CSVFileWriter:102 ... done!
+2016-04-18 12:13:31,713  INFO ThreadedMatrixCreator:243 Thread = 0 -- counterLegListNull = 0
+2016-04-18 12:13:31,713  INFO ThreadedMatrixCreator:244 Thread = 0 -- counterLegListNotNull = 7952400
+2016-04-18 12:13:31,713  INFO ThreadedMatrixCreator:245 Thread = 0 -- counterMoreThan3TransitLegs = 3805757
+2016-04-18 12:13:31,713  INFO ThreadedMatrixCreator:246 Thread = 0 -- counterNoTransitLeg = 2433562
+2016-04-18 12:13:31,714  INFO ThreadedMatrixCreator:248 Finishing thread = 0

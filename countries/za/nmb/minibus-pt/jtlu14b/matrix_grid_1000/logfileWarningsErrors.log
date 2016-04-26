@@ -1,0 +1,6 @@
+2016-04-18 12:03:59,559  WARN LinkImpl:154 [length=0.0 of link id 190176 may cause problems]
+2016-04-18 12:03:59,559  WARN LinkImpl:156  Future occurences of this logging statement are suppressed.
+2016-04-18 12:03:59,559  WARN LinkImpl:109 [from=to=[id=25618639][coord=[x=132931.48316938683][y=-3688394.173246786]][type=null][nof_inlinks=2][nof_outlinks=1] link is a loop]
+2016-04-18 12:03:59,560  WARN LinkImpl:111  Future occurences of this logging statement are suppressed.
+2016-04-18 12:03:59,560  WARN NodeImpl:98 [id=25618639][coord=[x=132931.48316938683][y=-3688394.173246786]][type=null][nof_inlinks=2][nof_outlinks=2][inlink_id=190176 is now in- and out-link]
+2016-04-18 12:03:59,560  WARN NodeImpl:99  This message given only once.
