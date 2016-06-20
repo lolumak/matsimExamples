@@ -1,0 +1,5 @@
+2015-10-15_facilities.xml
+= shared-svn/projects/maxess/data/nairobi/facilities/02/facilities.xml
+
+2015-10-15_network.xml
+= shared-svn/projects/maxess/data/nairobi/network/2015-10-15_network.xml
