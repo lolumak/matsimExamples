@@ -3,3 +3,6 @@
 
 2015-10-15_network.xml
 = shared-svn/projects/maxess/data/nairobi/network/2015-10-15_network.xml
+
+2016-07-09_facilities_airports
+= shared-svn/projects/maxess/data/nairobi/facilities/04/facilities.xml
