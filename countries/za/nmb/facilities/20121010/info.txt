@@ -1,0 +1,8 @@
+"facilities.xml" is based on "Facilites_orig.xml"
+
+However, the following substitutions have been made:
+"h" by "home"
+"w" by "work"
+"s" by "shopping"
+"l" by "leisure"
+"t" by "other"
